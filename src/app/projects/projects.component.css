@@ -2,9 +2,27 @@
   background-image: url(../../assets/projback.gif);
 }
 h2 {
-  font-style: italic;
-  text-align: center;
-  color: beige;
+ color: white;
+ font-size: 40x;
   font-weight: bold;
   font-family: "Times New Roman", Times, serif;
+}
+h2{
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+}
+.noned{
+  display: none;
+}
+.center{
+  margin-left:auto ;
+  margin-right: auto;
+  width: 90%;
+}
+@media (min-width: 1200px){
+	.center {
+    margin-left:auto ;
+    margin-right: auto;
+    width: 60%;
+  }
 }

@@ -5,22 +5,26 @@
     "description": "A Web application for a pet store in karkala was developed using MERN stack",
     "tech": "Technologies Used : Html5 , css3, Javascript, MongoDB, Nodejs, ReactJs, Express,Cloudinary Image",
     "tools": "Tools used : MongoDB atlas, Postman, VS code",
-    "link": "https://petshop-karkala.herokuapp.com/"
+    "link": "https://petshop-karkala.herokuapp.com/",
+    "cls":"heh"
   },
   {
     "id": "Project 2",
     "name": "Chat Application Development(Android)",
-    "description": "A Web application for a pet store in karkala was developed using MERN stack",
-    "tech": "Technologies Used : Html5 , css3, Javascript, MongoDB, Nodejs, ReactJs, Express,Cloudinary Image",
-    "tools": "Tools used : MongoDB atlas, Postman, VS code",
-    "link": "https://petshop-karkala.herokuapp.com/"
+    "description": "A mobile application for android devices built using Comet Chat UI Kit and through API",
+    "tech": "Java , Comet Chat UI kit for server and API",
+    "tools": "Tools used : Android studio",
+    "link": "",
+    "cls":"noned" 
+
   },
   {
     "id": "Project 3",
-    "name": "PET SHOP WEB APP (MERN)",
-    "description": "A Web application for a pet store in karkala was developed using MERN stack",
-    "tech": "Technologies Used : Html5 , css3, Javascript, MongoDB, Nodejs, ReactJs, Express,Cloudinary Image",
-    "tools": "Tools used : MongoDB atlas, Postman, VS code",
-    "link": "https://petshop-karkala.herokuapp.com/"
+    "name": "Bank Management System",
+    "description": "Bank management project using php, mysql, html and css to run queries",
+    "tech": "Technologies Used : Html5 , css3, php, mysql",
+    "tools": "Tools used : VS code",
+    "link": "https://petshop-karkala.herokuapp.com/",  
+    "cls":"noned"
   }
 ]

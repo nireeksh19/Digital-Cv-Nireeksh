@@ -1,17 +1,17 @@
 <div class="styling">
 <div class="container" style=" padding: 30px;">
-  <h2 style="text-align: center;">My Projects👨‍💻</h2>
+  <h2 style="text-align: center;">MY PROJECTS 👨‍💻</h2><br>
 
 <div class="row">
   <div class="col">
   <div *ngFor="let project of projects" style="margin-top: auto; justify-content: center;">
-    <div class="card" style="width: 100%;">
+    <div class="card center">
     <div class="card-body">
       <h5 class="card-title">{{project.id}} - {{project.name}}</h5>
       <p class="card-text">{{project.description}}</p>
       <p class="card-text">{{project.tech}}</p>
       <p class="card-text">{{project.tools}}</p>
-      <a href={{project.link}} target="_blank" class="btn btn-primary">Go somewhere</a>
+      <a href={{project.link}} class={{project.cls}} target="_blank" class="btn btn-primary">Live Project</a>
     </div>
   </div>
   <br><br>
@@ -29,20 +29,3 @@
 <br>
 </div>
 </div>
-
-
-<!-- <div class="row" style="margin: 3px;">
-  <div *ngFor="let project of projects" style="margin-top: auto;">
-        <div class="col-lg-4">
-          <div class="card" style="width: auto; background-color: rgb(255, 255, 255);">
-            <div class="card-body">
-              <h5 class="card-title">{{project.id}} - {{project.name}}</h5>
-              <p class="card-text">{{project.description}}</p>
-              <p class="card-text">{{project.tech}}</p>
-              <p class="card-text">{{project.tools}}</p>
-              <a href={{project.link}} target="_blank" class="btn btn-primary">Go somewhere</a>
-            </div>
-          </div>
-        </div>
-    </div>
-  </div> -->
