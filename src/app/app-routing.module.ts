@@ -3,6 +3,7 @@ import { RouterModule, Routes } from '@angular/router';
 import { AboutComponent } from './about/about.component';
 import { CertificationComponent } from './certification/certification.component';
 import { ContactComponent } from './contact/contact.component';
+import { EducationComponent } from './education/education.component';
 import { HomeComponent } from './home/home.component';
 import { ProjectsComponent } from './projects/projects.component';
 import { SkillsComponent } from './skills/skills.component';
@@ -14,7 +15,8 @@ const routes: Routes = [
   {path:'skills',component:SkillsComponent},
   {path:'about',component:AboutComponent},
   {path:'contact',component:ContactComponent},
-  {path:'certification',component:CertificationComponent}
+  {path:'certification',component:CertificationComponent},
+  {path:'education',component:EducationComponent}
 ];
 
 @NgModule({

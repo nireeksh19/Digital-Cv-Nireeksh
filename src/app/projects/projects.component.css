@@ -1,0 +1,10 @@
+.styling {
+  background-image: url(../../assets/projback.gif);
+}
+h2 {
+  font-style: italic;
+  text-align: center;
+  color: beige;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+}

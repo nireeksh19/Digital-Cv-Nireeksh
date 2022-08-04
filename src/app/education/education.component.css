@@ -1,0 +1,9 @@
+@media (min-width: 767px) {
+    .hidden-mobile {
+      display: none;
+    }
+  }
+  h2{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
