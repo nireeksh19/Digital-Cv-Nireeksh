@@ -1,0 +1,23 @@
+<div style="background-image: url(../../assets/projback.gif);">
+<div style=" padding: 30px;">
+  <h1 style="font-style: italic; font-weight: bolder;text-align: center; color: beige;" class="display-4">MY PROJECTS</h1>
+</div>
+<div class="row" style="margin: 3px;">
+<div *ngFor="let project of projects" style="margin-top: auto;">
+      <div class="col-lg-4">
+        <div class="card" style="width: 24rem; background-color: rgb(255, 255, 255);">
+          <div class="card-body">
+            <h5 class="card-title">{{project.id}} - {{project.name}}</h5>
+            <p class="card-text">{{project.description}}</p>
+            <p class="card-text">{{project.tech}}</p>
+            <p class="card-text">{{project.tools}}</p>
+            <a href={{project.link}} target="_blank" class="btn btn-primary">Go somewhere</a>
+          </div>
+        </div>
+      </div>
+  </div>
+</div>
+<br>
+<br>
+<br>
+</div>

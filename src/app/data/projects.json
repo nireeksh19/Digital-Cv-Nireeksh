@@ -1,0 +1,26 @@
+[
+  {
+    "id": "Project 1",
+    "name": "PET SHOP WEB APP (MERN)",
+    "description": "A Web application for a pet store in karkala was developed using MERN stack",
+    "tech": "Technologies Used : Html5 , css3, Javascript, MongoDB, Nodejs, ReactJs, Express,Cloudinary Image",
+    "tools": "Tools used : MongoDB atlas, Postman, VS code",
+    "link": "https://petshop-karkala.herokuapp.com/"
+  },
+  {
+    "id": "Project 2",
+    "name": "PET SHOP WEB APP (MERN)",
+    "description": "A Web application for a pet store in karkala was developed using MERN stack",
+    "tech": "Technologies Used : Html5 , css3, Javascript, MongoDB, Nodejs, ReactJs, Express,Cloudinary Image",
+    "tools": "Tools used : MongoDB atlas, Postman, VS code",
+    "link": "https://petshop-karkala.herokuapp.com/"
+  },
+  {
+    "id": "Project 3",
+    "name": "PET SHOP WEB APP (MERN)",
+    "description": "A Web application for a pet store in karkala was developed using MERN stack",
+    "tech": "Technologies Used : Html5 , css3, Javascript, MongoDB, Nodejs, ReactJs, Express,Cloudinary Image",
+    "tools": "Tools used : MongoDB atlas, Postman, VS code",
+    "link": "https://petshop-karkala.herokuapp.com/"
+  }
+]
